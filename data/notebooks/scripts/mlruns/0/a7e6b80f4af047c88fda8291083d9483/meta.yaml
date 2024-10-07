@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a7e6b80f4af047c88fda8291083d9483/artifacts
+end_time: 1728334369317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7e6b80f4af047c88fda8291083d9483
+run_name: sedate-sow-339
+run_uuid: a7e6b80f4af047c88fda8291083d9483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728334366347
+status: 4
+tags: []
+user_id: rinkusadh

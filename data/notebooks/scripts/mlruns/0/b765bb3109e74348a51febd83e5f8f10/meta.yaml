@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b765bb3109e74348a51febd83e5f8f10/artifacts
+end_time: 1728334369333
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b765bb3109e74348a51febd83e5f8f10
+run_name: thoughtful-skunk-736
+run_uuid: b765bb3109e74348a51febd83e5f8f10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728334365917
+status: 4
+tags: []
+user_id: rinkusadh

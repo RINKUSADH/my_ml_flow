@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/22bc034cd7604ed9825cbb2a3b2c9278/artifacts
+end_time: 1728333895170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22bc034cd7604ed9825cbb2a3b2c9278
+run_name: debonair-rook-155
+run_uuid: 22bc034cd7604ed9825cbb2a3b2c9278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728333895133
+status: 4
+tags: []
+user_id: rinkusadh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/566d9cf1fab741a6975b085309ec2f28/artifacts
+end_time: 1728336638168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 566d9cf1fab741a6975b085309ec2f28
+run_name: worried-shoat-607
+run_uuid: 566d9cf1fab741a6975b085309ec2f28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728336637775
+status: 3
+tags: []
+user_id: rinkusadh

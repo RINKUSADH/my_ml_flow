@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/11e56629c20e4b7e917b98ce73bcef1b/artifacts
+end_time: 1728334319393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11e56629c20e4b7e917b98ce73bcef1b
+run_name: mysterious-jay-465
+run_uuid: 11e56629c20e4b7e917b98ce73bcef1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728334319032
+status: 3
+tags: []
+user_id: rinkusadh

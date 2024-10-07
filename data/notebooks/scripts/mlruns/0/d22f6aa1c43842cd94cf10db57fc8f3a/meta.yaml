@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d22f6aa1c43842cd94cf10db57fc8f3a/artifacts
+end_time: 1728334366325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d22f6aa1c43842cd94cf10db57fc8f3a
+run_name: dazzling-duck-318
+run_uuid: d22f6aa1c43842cd94cf10db57fc8f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728334365941
+status: 3
+tags: []
+user_id: rinkusadh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ef1165800c8491a99d4f13acc053478/artifacts
+end_time: 1728334570544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ef1165800c8491a99d4f13acc053478
+run_name: capable-goat-314
+run_uuid: 3ef1165800c8491a99d4f13acc053478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728334565803
+status: 3
+tags: []
+user_id: rinkusadh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9f1009bdd1f042e582b2c1b0ff776200/artifacts
+end_time: 1728336773526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f1009bdd1f042e582b2c1b0ff776200
+run_name: unequaled-sloth-735
+run_uuid: 9f1009bdd1f042e582b2c1b0ff776200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728336768548
+status: 3
+tags: []
+user_id: rinkusadh

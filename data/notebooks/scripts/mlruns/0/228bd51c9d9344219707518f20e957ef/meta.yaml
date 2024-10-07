@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/228bd51c9d9344219707518f20e957ef/artifacts
+end_time: 1728333778799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 228bd51c9d9344219707518f20e957ef
+run_name: luxuriant-ray-908
+run_uuid: 228bd51c9d9344219707518f20e957ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728333778773
+status: 4
+tags: []
+user_id: rinkusadh

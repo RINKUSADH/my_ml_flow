@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/278a6c3843d54f9b8f564323a5b856e7/artifacts
+end_time: 1728336638153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 278a6c3843d54f9b8f564323a5b856e7
+run_name: bustling-pig-222
+run_uuid: 278a6c3843d54f9b8f564323a5b856e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728336637802
+status: 3
+tags: []
+user_id: rinkusadh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2a83a94b9ea94d0798cee7b71c56e653/artifacts
+end_time: 1728333326125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a83a94b9ea94d0798cee7b71c56e653
+run_name: nervous-auk-991
+run_uuid: 2a83a94b9ea94d0798cee7b71c56e653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728333322495
+status: 4
+tags: []
+user_id: rinkusadh
